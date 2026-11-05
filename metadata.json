@@ -1,0 +1,8 @@
+{
+  "name": "EduPulse School Attendance System",
+  "description": "Production-grade multi-tenant School Attendance Management System with high-speed camera QR code scanning, authoritative Supabase PostgreSQL, institutional ID cards, and real-time reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

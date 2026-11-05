@@ -1,0 +1,6 @@
+{
+  "summary": "Enhanced architectural blueprint and complete PostgreSQL SQL schema with multi-tenant RLS policies, school_memberships, composite tenant constraints, atomic record_qr_attendance PL/pgSQL function with token hashing, mark_daily_absent_students routine, checked_in_at TIMESTAMPTZ timezone handling, and prestigious ID card layout.",
+  "updatedAt": "2026-11-05T22:47:28.649564794Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

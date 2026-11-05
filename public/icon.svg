@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#18181B"/>
+  <path d="M256 64L384 128V256C384 340 328 416 256 448C184 416 128 340 128 256V128L256 64Z" fill="#27272A" stroke="#EA580C" stroke-width="16" stroke-linejoin="round"/>
+  <!-- Shield Internal Accent -->
+  <path d="M256 104L352 152V256C352 322 308 384 256 410C204 384 160 322 160 256V152L256 104Z" fill="#EA580C" fill-opacity="0.12"/>
+  <!-- QR Corner Markers -->
+  <rect x="192" y="180" width="40" height="40" rx="8" fill="#EA580C"/>
+  <rect x="280" y="180" width="40" height="40" rx="8" fill="#EA580C"/>
+  <rect x="192" y="268" width="40" height="40" rx="8" fill="#EA580C"/>
+  <!-- Pulse Line -->
+  <path d="M256 250V330M240 290H272M280 270H320V310H280V270Z" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="360" r="12" fill="#EA580C"/>
+</svg>
